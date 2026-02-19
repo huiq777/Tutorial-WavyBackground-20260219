@@ -1,0 +1,5 @@
+{
+  "name": "Tutorial-Wavy Circles Background",
+  "description": "An interactive background effect featuring expanding, spewing circles that react to mouse movement with spring physics.",
+  "requestFramePermissions": []
+}
